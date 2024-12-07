@@ -2,9 +2,9 @@
 
 ## Overview
 
-**Genie in a Bottle** is a skin lesion classification project that utilizes the Fitzpatrick17k dataset and a Convolutional Neural Network (CNN) model to analyze images of skin lesions. The model predicts whether a given skin lesion is **benign**, **malignant**, or **nonneoplastic**, contributing to early detection and informed decision-making in dermatological health.
+**Genie in a Bottle** is a skin lesion classification project that utilizes the Fitzpatrick17k dataset and a Convolutional Neural Network (CNN) model to analyze images of skin lesions. The model that is provided by the [Fitzpatrick17k team](https://github.com/mattgroh/fitzpatrick17k) predicts a skin condition for a given image, contributing to early detection and informed decision-making in dermatological health. Our aim was to utilize their resources to adjust their model to predict whether a given skin lesion is **benign**, **malignant**, or **nonneoplastic**.
 
-This project was developed as part of **BioHack 2024**.
+This project was developed as part of **[BioHack 2024](https://www.biohacknyc.com/)**.
 
 ## Group Members
 
